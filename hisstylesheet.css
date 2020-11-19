@@ -1,0 +1,107 @@
+body{
+  background-image:url(leftka.jpg) ;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+     }
+.x{
+   position: absolute;
+   left: 78px;
+   top: 46px;
+   height:42px;
+    }
+.y{
+  position: absolute;
+  left:125px;
+  top: 91px;
+  width: 354px;
+  height:480px;
+}
+.a {
+background-color: black;
+width: 627px;
+height: 29px;
+border: 15px solid red;
+padding: 50px;
+margin: 20px;
+color: green;
+position: absolute;
+top:71px;
+left:459px;
+font-size: 33;
+}
+@keyframes dimag {
+  from {opacity: 0;}
+  to {opacity:1;}
+}
+.t{
+  animation-name: dimag;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  opacity: 0;
+  position: absolute;
+  top: 5px;
+}
+.z {
+background-color:lightgrey;
+width: 755px;
+height: 160px;
+color: green;
+position: absolute;
+top:250px;
+left:480px;
+font-size: 33;
+}
+.button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button1 {border-radius: 50%;
+  position: absolute;
+  top: 35PX;
+  left: 20px;
+}
+.button2 {border-radius: 50%;
+  position: absolute;
+    top: 35px;
+  left: 275px;
+}
+.button3 {border-radius: 50%;
+  position: absolute;
+    top: 35px;
+  left: 400px;
+}
+.button4 {border-radius: 50%;
+  position: absolute;
+    top: 35px;
+  left: 625px;
+}
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.s {
+background-color: black;
+width: 627px;
+height: 30px;
+border: 15px solid red;
+padding: 50px;
+margin: 20px;
+color: green;
+position: absolute;
+top:390px;
+left:459px;
+font-size: 33;
+}
+.p{
+  position: absolute;
+  top:1px;
+}

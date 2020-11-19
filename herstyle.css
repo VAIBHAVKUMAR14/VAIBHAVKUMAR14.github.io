@@ -1,0 +1,201 @@
+body{
+  background-image:url(leftka.jpg) ;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+     }
+     .z {
+     background-color:#c6d0dc;
+     width: 1117px;
+     height: 483px;
+     color: green;
+     position: absolute;
+     top:90px;
+     left:122px;
+     font-size: 33;
+     }
+     .button {
+       background-color: #4CAF50;
+       border: none;
+       color: white;
+       padding: 16px 32px;
+       text-align: center;
+       text-decoration: none;
+       display: inline-block;
+       font-size: 16px;
+       margin: 4px 2px;
+       transition-duration: 0.4s;
+       cursor: pointer;
+     }
+     .button6 {
+  background-color: white;
+  color: black;
+  border: 2px solid brown;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+}
+     .button6:hover {
+       background-color: orange;
+       color: white;
+     }
+
+     .button7 {
+       background-color: white;
+       color: black;
+       border: 2px solid Blue;
+       position: absolute;
+       top: 0px;
+       left: 800px;
+     }
+
+     .button7:hover {
+       background-color: lightBlue;
+       color: white;
+     }
+
+     .button8 {
+       background-color: white;
+       color: black;
+       border: 2px solid aqua;
+       position: absolute;
+       top: 80px;
+       left: 791px;
+     }
+
+     .button8:hover {
+       background-color: blue;
+       color: white;
+     }
+
+     .button9 {
+       background-color: white;
+       color: black;
+       border: 2px solid yellow;
+       position: absolute;
+       top: 160px;
+       left: 812px;
+     }
+
+     .button9:hover {background-color: yellow;}
+
+     .button10 {
+       background-color: white;
+       color: black;
+       border: 2px solid Black;
+       position: absolute;
+       top: 240px;
+       left: 770px;
+     }
+
+     .button10:hover {
+       background-color: Black;
+       color: white;
+     }
+     .button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid silver;
+  position: absolute;
+  top: 0px;
+  left: 185px;
+}
+     .button1:hover {
+       background-color: silver;
+       color: white;
+     }
+
+     .button2 {
+       background-color: white;
+       color: black;
+       border: 2px solid orange;
+       position: absolute;
+       top: 80px;
+       left: 200px;
+     }
+
+     .button2:hover {
+       background-color: orange;
+       color: white;
+     }
+
+     .button3 {
+       background-color: white;
+       color: black;
+       border: 2px solid blue;
+       position: absolute;
+       top: 160px;
+       left: 200px;
+     }
+
+     .button3:hover {
+       background-color: green;
+       color: white;
+     }
+
+     .button4 {
+       background-color: white;
+       color: black;
+       border: 2px solid Red;
+       position: absolute;
+       top: 240px;
+       left: 205px;
+     }
+
+     .button4:hover {background-color: red;}
+
+     .button5 {
+       background-color: white;
+       color: black;
+       border: 2px solid orange;
+       position: absolute;
+       top: 320px;
+       left: 200px;
+     }
+
+     .button5:hover {
+       background-color: yellow;
+       color: white;
+     }
+     .button11 {
+       background-color: white;
+       color: black;
+       border: 2px solid gray;
+       position: absolute;
+       top: 320px;
+       left: 800px;
+     }
+
+     .button11:hover {
+       background-color: gray;
+       color: white;
+     }
+     .button12 {
+       background-color: white;
+       color: black;
+       border: 2px solid Black;
+       position: absolute;
+        top: 400px;
+        left: 802px;
+
+     }
+
+     .button12:hover {
+       background-color: brown;
+       color: white;
+     }
+.x{
+  position: absolute;
+  left: 450px;
+}
+.y{
+  position: absolute;
+  top: 450px;
+  left: 370px;
+  font-size: 12;
+}
+.a{
+  position: absolute;
+  top: -45px;
+  left:-44px;
+}

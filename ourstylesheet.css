@@ -1,0 +1,49 @@
+body{
+  background-image:url(space.jpg) ;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+     }
+.x{
+  position: absolute;
+  left: 85px;
+  top: 11px;
+  height: 46px;
+}
+input[type=number] {
+  width: 80%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color:Mediumseagreen;
+  color: white;
+}
+form{
+  position: absolute;
+  left:600px;
+  top: 325px;
+}
+.a {
+background-color: black;
+width: 165px;
+height: 15px;
+border: 10px solid red;
+padding: 50px;
+margin: 20px;
+color: green;
+position: absolute;
+top:100px;
+left:600px;
+font-size: 33;
+}
+.Y{
+  position: absolute;
+  top: -35PX;
+  left: -1px;
+}
+.p{
+  position: absolute;
+  top: 80PX;
+  left: 620px;
+}

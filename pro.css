@@ -1,0 +1,84 @@
+.k{
+  background-image: url(star.jpg);
+  background-size: cover;
+  animation-name: planets;
+  animation-duration: 6.5s;
+  animation-delay: 0.1s;
+}
+.f{
+  animation-name: second;
+  animation-timing-function: step-start;
+  animation-delay:0.00001s;
+  animation-duration: 7s;
+  position: absolute;
+  margin-left: 800px;
+  height:400px;
+  width: 650px;
+}
+.s {
+  animation-name: second;
+  animation-timing-function: step-start;
+  animation-delay:0.00001s;
+  animation-duration: 7s;
+  position: absolute;
+  margin-left: 800px;
+  height:400px;
+  width: 540px;
+}
+@keyframes planets {
+  from {background-image: url(star.jpg);}
+  to {background-image: url(launch.gif);
+      }
+}
+@keyframes second {
+  from {opacity: 1;}
+  to {opacity:0;}
+}
+.x{
+  animation-name: second;
+  animation-timing-function: step-start;
+  animation-delay:0.00001s;
+  animation-duration: 7s;
+  color: white;
+  font-size: 28;
+  width:60%;
+}
+.n{
+  animation-name: second;
+  animation-timing-function: step-start;
+  animation-delay:0.00001s;
+  animation-duration: 7s;
+  color: white;
+  font-size: 28;
+}
+table, td, th {
+  border: 1px solid white;
+  color: red;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+p{
+  font-size: 48;
+  color: white;
+}
+hr{
+  width:60%;
+  margin-left: 0px;
+}
+.p{
+  animation-name: p;
+  animation-duration: 6s;
+  animation-delay: 0.1s;
+  opacity: 0;
+  position: absolute;
+  left: 200px;
+  top: 600px;
+
+}
+@keyframes p {
+  from {opacity: 0}
+  to {opacity: 1}
+}
